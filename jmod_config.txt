@@ -3754,7 +3754,7 @@
 		},
                 "oq Painkillers": {
 			"craftingReqs": {
-				"Chemicals": 100.0
+				"chemicals": 100.0
 			},
 			"results": "weapon_painkillers",
 			"category": "oq Medicine",
